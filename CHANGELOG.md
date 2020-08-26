@@ -1,6 +1,8 @@
-# avro_turf
+# AvroTurf
 
 ## Unreleased
+
+- Add support for plain user/password auth to ConfluentSchemaRegistry (#120)
 
 ## v0.11.0
 
